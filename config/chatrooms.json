@@ -1,0 +1,8 @@
+[
+{"title":"Lobby","autojoin":true,"isOfficial":true,"desc":"Discuss Other metas and other things!"},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"auth":{}},
+{"title":"Tournaments ","auth":{},"desc":"Come Here to have fun playing in both unofficial and official other metas tournaments!","isOfficial":true},
+{"title":"Charizards","isOfficial":true,"auth":{"oiawesome":"#","arhops":"%","kitkasai":"%","kl4ng":"%","montecrist0":"#"},"isPrivate":true},
+{"title":"Makeshift Social","isPrivate":true,"auth":{"pikachuun":"#","montecrist0":"@","unfixable":"%","simsims2800":"+","chenkovsky":"+","rangermike":"%","theburgerking99":"+","celever":"+","seismit0ad":"%","albacore":"+","snaquaza":"@","arhops":"+"},"introMessage":"<center><font size=\"4\"><b>Sup members of the Makeshift Social Group!<br><img src=\"http://s29.postimg.org/x58w7zd93/image.jpg\" alt=\"Makeshift\" height=\"264\" width=\"480\"></b></font></center>"},
+{"title":"council","isPrivate":true,"auth":{"montecrist0":"#","kl4ng":"@","reqsterat":"@","word":"@"}}
+]

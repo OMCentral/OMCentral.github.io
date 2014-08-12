@@ -1,0 +1,5 @@
+[
+{"title":"Lobby","autojoin":true,"isOfficial":true,"desc":"Discuss Other metas and other things!"},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"auth":{}},
+{"title":"Tournaments ","auth":{},"desc":"Come Here to have fun playing in both unofficial and official other metas tournaments!","isOfficial":true}
+]
